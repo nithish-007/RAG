@@ -1,0 +1,14 @@
+**/__pycache__/
+
+# ignore env
+**/.env
+
+# checkpoints
+**/.ipynb_checkpoints/
+
+data/
+
+# Other
+.DS_Store
+*.tmp
+*.bak
