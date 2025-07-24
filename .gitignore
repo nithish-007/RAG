@@ -2,6 +2,7 @@
 
 # ignore env
 **/.env
+**/.*
 
 # checkpoints
 **/.ipynb_checkpoints/
@@ -12,3 +13,4 @@ data/
 .DS_Store
 *.tmp
 *.bak
+
